@@ -1,0 +1,288 @@
+	.exp {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 43em;
+    width: 84em;
+    border: 5px;
+    border-style: groove;
+    background-color: white;
+}
+.position-absolute {
+    
+    position: absolute !important;
+    backdrop-filter: blur(6px);
+
+  }
+  .swal2-popup {
+    font-size: 1rem !important;
+    font-family: Georgia, serif;
+  }
+  #exph{
+	margin-top: -2px;
+	margin-left: -3px;
+   padding-left: 20px;
+   width: 83em;
+   padding-top: 1px;
+   padding-bottom: 1px;
+   background-image: linear-gradient(#091069,#2B4D9D );
+	box-shadow: 0 8px 6px -6px black;
+  }
+  #expm{
+	font-size: 25px;
+	color: white;
+	text-align: center;
+  }
+  /* dot 1*/
+	#dragDropWindow1{
+		left: 7.4em;
+		top: 17.5em;
+		position: absolute;
+	}
+	/* dot 3*/
+	#dragDropWindow2{
+		left: 14.8em;
+		top: 23.1em;
+		position: absolute;
+	}
+	#dragDropWindow3{
+		right: 10.3em;
+		top: 22em;
+		position: absolute;
+	}
+
+	/* dot 13*/
+	#dragDropWindow4{
+		right: 24.4em;
+		top: 27.5em;
+		position: absolute;
+	}
+
+	/* dot 2*/
+	#dragDropWindow5{
+		left: 6.6em;
+		top: 17.5em;
+		position: absolute;
+	}
+
+    /* dot 4*/
+	#dragDropWindow6{
+		left: 34.3em;
+		top: 28.8em;
+		position: absolute;
+	}
+
+	#dragDropWindow7{
+		right: 11em;
+		top: 22em;
+		position: absolute;
+	}
+
+    /* dot 14*/
+	#dragDropWindow8{
+		right: 20.4em;
+		top: 24.75em;
+		position: absolute;
+	}
+
+	/* dot 5*/
+	#dragDropWindow9{
+		left: 18.5em;
+		top: 29.3em;
+		position: absolute;
+	}
+	/* dot 7*/
+	#dragDropWindow10{
+		left: 21.3em;
+		top: 37.4em;
+		position: absolute;
+	}
+	/* dot 6*/
+	#dragDropWindow11{
+		left: 20em;
+		top: 29.3em;
+		position: absolute;
+	}
+	/* dot 8*/
+	#dragDropWindow12{
+		left: 21.3em;
+		top: 36.6em;
+		position: absolute;
+	}
+	/* dot 11*/
+	#dragDropWindow13{
+		right: 40.2em;
+		top: 18em;
+		position: absolute;
+	}
+	/* dot 9*/
+	#dragDropWindow14{
+		left:47em;
+		top: 36.2em;
+		position: absolute;
+	}
+    /* dot 12*/
+	#dragDropWindow15{
+		right: 40.2em;
+		top: 26.2em;
+		position: absolute;
+	}
+
+	/* dot 10*/
+	#dragDropWindow16{
+		position:absolute;
+		left:49em;
+		top: 36.2em;
+	}
+
+	.image{
+		position:relative;
+		margin-top:100px;
+	}
+
+	.top{
+		position:absolute;
+		bottom:40px;
+		right:30px;
+	}
+	.instruct{
+		position:relative;
+		margin-left: 77%;
+		margin-top:2%;	
+	}
+	#myBtn{
+		color:white;
+			font-weight: bold;
+			font-size: 18px;
+	}
+	input {
+	
+		margin-right:10px;
+		width: 100px;
+		font-size: 18px;
+		border: none;
+		font-weight: bold;
+		border-radius: 20px;
+		cursor: pointer;
+		color: white;
+	}
+	input:disabled {
+		opacity: 0.6;
+		cursor: not-allowed;
+	  }
+	.b1
+	{
+		border: 2px #2B4D9D solid;
+		background-image: linear-gradient(#95ABD0,#2B4D9D,#091069 );
+		font-size: 18px;
+	}
+	.b1:hover{
+		color: #2B4D9D;
+		background: white;
+    font-size: 18px;
+	cursor:pointer;
+	}
+	.b2
+	{
+		border: 2px #2B4D9D solid;
+		background-image: linear-gradient(#95ABD0,#2B4D9D,#091069 );
+		font-size: 18px;
+	}
+	.b2:hover{
+		color: #2B4D9D;
+		background: white;
+    font-size: 18px;
+		cursor:pointer;
+	}
+	.b3
+	{
+		border: 2px #2B4D9D solid;
+		background-image: linear-gradient(#95ABD0,#2B4D9D,#091069 );
+		font-size: 18px;
+	}
+	.b3:hover{
+		color: #2B4D9D;
+		background: white;
+    font-size: 18px;
+		cursor:pointer;
+	}
+	.button{
+		display:inline-flex;
+		margin-right:10px;
+	}
+	.modal {
+		display: none;
+		position: inherit;
+		z-index: 11;
+        padding-top: 20px;
+		left: -1175px;
+		top: -45px;
+		width:84em;
+		height:43em;
+		background-color: rgba(255, 255, 255, 0);
+        backdrop-filter:  blur(9.2px);
+       -webkit-backdrop-filter: blur(9.2px);
+        border: 1px solid rgba(255, 255, 255, 0.99);
+	}
+	.modal-content {
+		background-color: #fefefe;
+		margin: auto;
+		padding: 20px;
+		border: 1px solid #888;
+		width: 60%;
+		box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+		-webkit-animation-name: animatetop;
+		-webkit-animation-duration: 0.4s;
+		animation-name: animatetop;
+		animation-duration: 0.4s
+	}
+	@-webkit-keyframes animatetop {
+		from {top:-300px; opacity:0} 
+		to {top:0; opacity:1}
+	}
+	@keyframes animatetop {
+		from {top:-300px; opacity:0}
+		to {top:0; opacity:1}
+	}
+	.close {
+		color: #ffffff;
+		float: right;
+		font-size: 28px;
+		font-weight: bold;
+	}
+	.close:hover,
+	.close:focus {
+		color: #000;
+		text-decoration: none;
+		cursor: pointer;
+	}
+	.modal-header {
+		padding: 2px 16px;
+		background-color: #2B4D9D;
+		color: white;
+	}
+	.modal-body {padding: 2px 16px;}
+	.modal-footer {
+		padding: 2px 16px;
+		background-color: #2B4D9D;
+		color: white;
+	}
+	path, .jtk-endpoint { cursor:pointer; }
+	.cmdLink { font-size:0.80em;}
+	.drag-drop-demo a, .drag-drop-demo a:visited {
+		color:#057D9F;
+	}
+	.demo {
+    /* for IE10+ touch devices */
+		touch-action:none;
+	}
+
+	.main-footer
+	{
+		position:absolute;
+		width: 84.5em;
+		height:25px;
+		background-image: linear-gradient(#2B4D9D,#091069 );
+	  top:43.5em;left: 0.3;
+	  text-align: center;display: grid;
+	}
