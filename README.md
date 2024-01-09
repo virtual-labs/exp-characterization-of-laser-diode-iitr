@@ -22,9 +22,9 @@ Objectives:-  To find the characteristics of Optical Power (Po) of LASER diode v
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Prof. RS Anand | Faculty | Electrical Engineering | IIT Roorkee, Roorkee | anandfee@gmail.com
-2 | Rajeev Kumar | Research Fellow | Electrical Engineering | IIT Roorkee, Roorkee | rajeevkumar.rke@gmail.com
-3 | Nipun Jain | Project Associate | Electrical Engineering | IIT Roorkee, Roorkee | nipunjain1305@gmail.com
-4 | Pragya Daksh  | Project Associate | Electrical Engineering | IIT Roorkee, Roorkee | prgdaksh@gmail.com
+
+1 | Rajeev Kumar | Research Fellow | Electrical Engineering | IIT Roorkee, Roorkee | rajeevkumar.rke@gmail.com
+2 | Nipun Jain | Project Associate | Electrical Engineering | IIT Roorkee, Roorkee | nipunjain1305@gmail.com
+3 | Pragya Daksh  | Project Associate | Electrical Engineering | IIT Roorkee, Roorkee | prgdaksh@gmail.com
 
 <br>
