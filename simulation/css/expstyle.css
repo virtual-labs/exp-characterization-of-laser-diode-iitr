@@ -1,0 +1,305 @@
+	.exp{
+		position: absolute;
+		left:0em;
+		top:0em;
+		height:46.2em;
+		width:84em;
+		border:5px;
+		border-style:groove;
+		background-color:white;
+	}
+	.position-absolute {
+    
+		position: absolute !important;
+		backdrop-filter: blur(6px);
+	
+	  }
+	  .swal2-popup {
+		font-size: 1rem !important;
+		font-family: Georgia, serif;
+	  }
+	  #exph{
+		margin-top: -2px;
+		margin-left: -3px;
+	   padding-left: 20px;
+	   width: 83em;
+	   padding-top: 1px;
+	   padding-bottom: 1px;
+	   background-image: linear-gradient(#091069,#2B4D9D );
+		box-shadow: 0 8px 6px -6px black;
+	  }
+	  #expm{
+		font-size: 25px;
+		color: white;
+		text-align: center;
+	  }
+	
+	  #circuitsection
+	  {
+		position:absolute;
+		border: 2px solid #19318F; 
+		top:11.5%;
+		width:825px;
+		height:350px;
+		left:15;
+	  }
+	
+	  #crtsec
+	  {
+		position:absolute; 
+		background-color:#19318F;   
+		height:25px; 
+		right:0px; 
+		width:825px;
+		font-size: 20px;
+		font-weight: bold;
+		text-align: center;
+	  }
+
+	  #circuit{
+                 
+		position:absolute; top:30px;height:320px; width:870px;
+	}
+
+	  #figcap
+	{
+		text-align: center;
+		font-size: 16px;
+		font-weight: bold;
+		position:absolute;
+		top:295px;
+		width:870;
+		color:red;
+	}
+
+	#cntrwrap{
+		position:absolute;
+		border: 2px solid #19318F; 
+		top:11.5%;
+		width:280px;
+		height:170px;
+		right:200;
+	}
+#cntrlr{
+	position:absolute; 
+	background-color:#19318F;
+	text-align: center;   
+	height:25px; 
+	right:0px; 
+	width:280px;
+	font-size: 20px;
+	font-weight: bold;
+}
+	.font {
+		font-size: 16px;font-weight: bold;
+	}
+	#canvas
+	{
+		margin-left: 3px;
+		
+	}
+	.top{
+		height:400px;
+		width:400px;
+		position:absolute;
+		top:90;
+		left:0;
+		font-size:20px;
+	}
+	.graph{
+		width:53em;
+		height:18em;
+		position:absolute;
+		top:450;
+		left:15;
+	}
+	
+	.but{
+		position:absolute;
+		top:13%;
+		right:5px;
+		width:200px;
+		display:block;
+	}
+	button{
+		margin-right:5px;
+		width: 90px;
+		font-size: 18px;
+		border: none;
+		font-weight: bold;
+		border-radius: 20px;
+		cursor: pointer;
+		color: white;
+		font-family: 'Times New Roman', Times, serif;
+	}
+	.button {
+		margin:auto;
+		display:block;
+		border: 2px #2B4D9D solid;
+		background-image: linear-gradient(#95ABD0,#2B4D9D,#091069 );
+	}
+	.button:hover{
+		color: #2B4D9D;
+    background: white;
+	cursor:pointer;
+	}
+	.button:disabled {
+		opacity: 0.6;
+		cursor: not-allowed;
+	  }
+	.setup_part{
+		position: absolute;
+		top: 350;
+		left: 650;
+	}
+	.ccircle{
+		position: fixed;
+		top: 340;
+		left: 675;
+	}
+	.avg{
+		position:absolute;
+		right:540;
+		bottom:100;
+	}
+
+	.calc{
+		position:absolute;
+		right:0.5em;
+		top:38.5%;
+	}
+	.no-js #loader { display: none;  }
+	.js #loader { display: block; position: absolute; left: 100px; top: 0; }
+	#se-pre-con {
+		position: fixed;
+		left: 0px;
+		background-color:white;
+		top: 0px;
+		width: 100%;
+		height: 100%;
+		z-index: 9999;
+		text-align:center;
+	} 
+	.load{
+		top: 50%;
+    position: absolute;
+	font-family:cursive;
+	font-size:1.3em;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+	.toggle {
+            position : relative ;
+            display : inline-block;
+            width : 50px;
+            height : 20px;
+			top:7px;
+            background-color: red;
+            border-radius: 30px;
+            border: 2px solid gray;
+        }
+                
+        /* After slide changes */
+        .toggle:after {
+            content: '';
+            position: absolute;
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background-color: white;
+            top: -0.7px; 
+            left: 0px;
+            transition:  all 0.5s;
+        }
+      
+        /* Checkbox cheked effect */
+        .checkbox:checked + .toggle::after {
+            left : 29px; 
+        }
+                
+        /* Checkbox cheked toggle label bg color */
+        .checkbox:checked + .toggle {
+            background-color: green;
+        }
+                
+        /* Checkbox vanished */
+        .checkbox { 
+            display : none;
+        }
+		.instruct{
+			position:relative;
+			margin-left: 77%;
+			margin-top:2%;	
+		}
+		#myBtn{
+			color:white;
+				font-weight: bold;
+				font-size: 18px;
+		}
+	.modal {
+		display: none;
+		position: inherit;
+		z-index: 11;
+        padding-top: 200px;
+		left: -1175px;
+		top: -45px;
+		width:84em;
+		height:35em;
+		background-color: rgba(255, 255, 255, 0);
+        backdrop-filter:  blur(9.2px);
+       -webkit-backdrop-filter: blur(9.2px);
+        border: 1px solid rgba(255, 255, 255, 0.99);
+		
+	}
+	.modal-content {
+		background-color: #fefefe;
+		margin: auto;
+		padding: 20px;
+		border: 1px solid #888;
+		width: 50%;
+		box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+		-webkit-animation-name: animatetop;
+		-webkit-animation-duration: 0.4s;
+		animation-name: animatetop;
+		animation-duration: 0.4s
+	}
+	@-webkit-keyframes animatetop {
+		from {top:-300px; opacity:0} 
+		to {top:0; opacity:1}
+	}
+	@keyframes animatetop {
+		from {top:-300px; opacity:0}
+		to {top:0; opacity:1}
+	}
+	.close {
+		color: #ffffff;
+		float: right;
+		font-size: 28px;
+		font-weight: bold;
+	}
+	.close:hover,
+	.close:focus {
+		color: #000;
+		text-decoration: none;
+		cursor: pointer;
+	}
+	.modal-header {
+		padding: 2px 16px;
+		background-color: #2B4D9D;
+		color: white;
+	}
+	.modal-body {padding: 2px 16px;}
+	.modal-footer {
+		padding: 2px 16px;
+		background-color: #2B4D9D;
+		color: white;
+	}
+	.main-footer
+	{
+		position:absolute;
+		width: 84.5em;
+		height:25px;
+		background-image: linear-gradient(#2B4D9D,#091069 );
+	  top:46.7em;left: 0.3;
+	  text-align: center;display: grid;
+	}
