@@ -1,1 +1,0 @@
-## Characterisation of LASER Diode.
