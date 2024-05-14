@@ -1,0 +1,272 @@
+
+/home/runner/work/exp-characterization-of-laser-diode-iitr/exp-characterization-of-laser-diode-iitr/experiment/simulation/js/demo.js
+    2:1   warning  Unnecessary semicolon                      no-extra-semi
+   10:12  warning  'connections' is not defined               no-undef
+   12:13  warning  'Swal' is not defined                      no-undef
+   27:11  warning  'connections' is not defined               no-undef
+   29:9   warning  'Swal' is not defined                      no-undef
+   44:13  warning  'connections' is not defined               no-undef
+   46:34  warning  'connections' is not defined               no-undef
+   47:30  warning  'connections' is not defined               no-undef
+   48:30  warning  'connections' is not defined               no-undef
+   53:3   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+   58:3   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+   59:3   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+   63:13  warning  'Swal' is not defined                      no-undef
+   76:2   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+   77:2   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+   80:13  warning  'Swal' is not defined                      no-undef
+  103:2   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+  106:9   warning  'showConnectionInfo' is not defined        no-undef
+  110:9   warning  'hideConnectionInfo' is not defined        no-undef
+  111:13  warning  'listDiv' is not defined                   no-undef
+  113:9   warning  'connections' is not defined               no-undef
+  114:9   warning  'updateConnections' is not defined         no-undef
+  115:26  warning  'connections' is not defined               no-undef
+  118:37  warning  'connections' is not defined               no-undef
+  119:25  warning  'connections' is not defined               no-undef
+  124:32  warning  'connections' is not defined               no-undef
+  126:17  warning  'connections' is not defined               no-undef
+  128:38  warning  'connections' is not defined               no-undef
+  129:34  warning  'connections' is not defined               no-undef
+  130:34  warning  'connections' is not defined               no-undef
+  134:17  warning  'showConnectionInfo' is not defined        no-undef
+  136:17  warning  'hideConnectionInfo' is not defined        no-undef
+  139:5   warning  'jsPlumb' is not defined                   no-undef
+  141:24  warning  'jsPlumb' is not defined                   no-undef
+  147:57  warning  'originalEvent' is defined but never used  no-unused-vars
+  148:17  warning  'updateConnections' is not defined         no-undef
+  150:65  warning  'originalEvent' is defined but never used  no-unused-vars
+  151:17  warning  'updateConnections' is not defined         no-undef
+  154:62  warning  'originalEvent' is defined but never used  no-unused-vars
+  158:17  warning  'updateConnections' is not defined         no-undef
+  232:32  warning  'jsPlumb' is not defined                   no-undef
+  234:29  warning  'jsPlumb' is not defined                   no-undef
+  237:17  warning  'jsPlumbUtil' is not defined               no-undef
+  240:29  warning  'jsPlumb' is not defined                   no-undef
+  244:17  warning  'jsPlumbUtil' is not defined               no-undef
+  247:31  warning  'jsPlumb' is not defined                   no-undef
+  250:17  warning  'jsPlumbUtil' is not defined               no-undef
+  256:17  warning  'showConnectionInfo' is not defined        no-undef
+  257:17  warning  'jsPlumbUtil' is not defined               no-undef
+  262:9   warning  'jsPlumb' is not defined                   no-undef
+
+/home/runner/work/exp-characterization-of-laser-diode-iitr/exp-characterization-of-laser-diode-iitr/experiment/simulation/js/jsplumb.js
+     68:9   warning  'root' is assigned a value but never used                                  no-unused-vars
+    130:18  warning  'i' is already defined                                                     no-redeclare
+    184:18  warning  'i' is already defined                                                     no-redeclare
+    242:22  warning  'j' is already defined                                                     no-redeclare
+    264:56  warning  't' is defined but never used                                              no-unused-vars
+    279:26  warning  'j' is already defined                                                     no-redeclare
+    590:9   warning  'exports' is not defined                                                   no-undef
+    624:1   warning  Unnecessary semicolon                                                      no-extra-semi
+    634:9   warning  'exports' is not defined                                                   no-undef
+    669:9   warning  '_normal' is assigned a value but never used                               no-unused-vars
+    680:9   warning  '_lineLength' is assigned a value but never used                           no-unused-vars
+    714:9   warning  '_theta' is assigned a value but never used                                no-unused-vars
+    733:9   warning  '_intersects' is assigned a value but never used                           no-unused-vars
+    755:9   warning  '_encloses' is assigned a value but never used                             no-unused-vars
+    772:9   warning  '_pointOnLine' is assigned a value but never used                          no-unused-vars
+    789:9   warning  '_perpendicularLineTo' is assigned a value but never used                  no-unused-vars
+    797:1   warning  Unnecessary semicolon                                                      no-extra-semi
+    854:28  warning  'view' is defined but never used                                           no-unused-vars
+    854:34  warning  'target' is defined but never used                                         no-unused-vars
+    854:42  warning  'pageX' is defined but never used                                          no-unused-vars
+    854:49  warning  'pageY' is defined but never used                                          no-unused-vars
+    854:56  warning  'screenX' is defined but never used                                        no-unused-vars
+    854:65  warning  'screenY' is defined but never used                                        no-unused-vars
+    854:74  warning  'clientX' is defined but never used                                        no-unused-vars
+    854:83  warning  'clientY' is defined but never used                                        no-unused-vars
+   1048:58  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   1090:39  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   1140:9   warning  'touchstart' is assigned a value but never used                            no-unused-vars
+   1140:36  warning  'touchend' is assigned a value but never used                              no-unused-vars
+   1140:59  warning  'touchmove' is assigned a value but never used                             no-unused-vars
+   1145:54  warning  Unnecessary escape character: \.                                           no-useless-escape
+   1231:73  warning  Invalid typeof comparison value                                            valid-typeof
+   1294:38  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   1296:51  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   1318:29  warning  'el' is defined but never used                                             no-unused-vars
+   1318:33  warning  'event' is defined but never used                                          no-unused-vars
+   1318:40  warning  'children' is defined but never used                                       no-unused-vars
+   1318:50  warning  'fn' is defined but never used                                             no-unused-vars
+   1465:9   warning  'exports' is not defined                                                   no-undef
+   1498:1   warning  Unnecessary semicolon                                                      no-extra-semi
+   1612:54  warning  Unnecessary escape character: \.                                           no-useless-escape
+   1736:42  warning  'scope' is defined but never used                                          no-unused-vars
+   1744:13  warning  'scroll' is assigned a value but never used                                no-unused-vars
+   1894:13  warning  '_addFilter' is assigned a value but never used                            no-unused-vars
+   1895:13  warning  '_removeFilter' is assigned a value but never used                         no-unused-vars
+   2110:31  warning  Empty block statement                                                      no-empty
+   2299:42  warning  'scope' is defined but never used                                          no-unused-vars
+   2319:56  warning  'drag' is defined but never used                                           no-unused-vars
+   2407:13  warning  '_getMatchingDroppables' is assigned a value but never used                no-unused-vars
+   2451:18  warning  'i' is already defined                                                     no-redeclare
+   2773:40  warning  'spec' is defined but never used                                           no-unused-vars
+   2796:38  warning  'spec' is defined but never used                                           no-unused-vars
+   2881:9   warning  'exports' is not defined                                                   no-undef
+   2893:42  warning  'exports' is not defined                                                   no-undef
+   2942:19  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   3038:26  warning  Unnecessary escape character: \.                                           no-useless-escape
+   3039:40  warning  Unnecessary escape character: \[                                           no-useless-escape
+   3249:36  warning  '_protoFn' is defined but never used                                       no-unused-vars
+   3257:45  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   3257:83  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   3270:41  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   3270:79  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   3333:42  warning  Empty block statement                                                      no-empty
+   3415:23  warning  Empty block statement                                                      no-empty
+   3584:2   warning  Unnecessary semicolon                                                      no-extra-semi
+   3639:1   warning  Unnecessary semicolon                                                      no-extra-semi
+   3642:44  warning  'ep' is defined but never used                                             no-unused-vars
+   3642:48  warning  'conn' is defined but never used                                           no-unused-vars
+   3772:38  warning  'e' is defined but never used                                              no-unused-vars
+   3877:1   warning  Unnecessary semicolon                                                      no-extra-semi
+   3909:9   warning  'eventFilters' is assigned a value but never used                          no-unused-vars
+   3928:9   warning  '_each' is assigned a value but never used                                 no-unused-vars
+   4601:29  warning  'o' is assigned a value but never used                                     no-unused-vars
+   4923:13  warning  '_setDraggable' is assigned a value but never used                         no-unused-vars
+   5147:56  warning  'args' is defined but never used                                           no-unused-vars
+   5195:60  warning  'cEl' is assigned a value but never used                                   no-unused-vars
+   5826:13  warning  '_unmanage' is assigned a value but never used                             no-unused-vars
+   5922:68  warning  'jsPlumbInstance' is assigned a value but never used                       no-unused-vars
+   6492:39  warning  'scope' is defined but never used                                          no-unused-vars
+   7179:9   warning  'exports' is not defined                                                   no-undef
+   7194:1   warning  Unnecessary semicolon                                                      no-extra-semi
+   7312:36  warning  'ignoreAttachedElements' is defined but never used                         no-unused-vars
+   7504:1   warning  Unnecessary semicolon                                                      no-extra-semi
+   7749:41  warning  'doNotRepaint' is defined but never used                                   no-unused-vars
+   7754:50  warning  'doNotRepaint' is defined but never used                                   no-unused-vars
+   7819:53  warning  'fireEvent' is defined but never used                                      no-unused-vars
+   7819:64  warning  'originalEvent' is defined but never used                                  no-unused-vars
+   7933:52  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   7979:39  warning  'startParams' is defined but never used                                    no-unused-vars
+   8556:17  warning  'elId' is assigned a value but never used                                  no-unused-vars
+   8793:1   warning  Unnecessary semicolon                                                      no-extra-semi
+   9312:52  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   9337:52  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   9349:21  warning  'jsPlumb' is not defined                                                   no-undef
+   9449:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  10157:27  warning  'Biltong' is not defined                                                   no-undef
+  10509:23  warning  'jsPlumbUtil' is not defined                                               no-undef
+  10742:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  10772:53  warning  'x' is defined but never used                                              no-unused-vars
+  10772:56  warning  'y' is defined but never used                                              no-unused-vars
+  10799:46  warning  'x1' is defined but never used                                             no-unused-vars
+  10799:50  warning  'y1' is defined but never used                                             no-unused-vars
+  10799:54  warning  'x2' is defined but never used                                             no-unused-vars
+  10799:58  warning  'y2' is defined but never used                                             no-unused-vars
+  10832:17  warning  '_super' is assigned a value but never used                                no-unused-vars
+  10890:46  warning  '_' is defined but never used                                              no-unused-vars
+  11092:17  warning  '_super' is assigned a value but never used                                no-unused-vars
+  11324:17  warning  '_super' is assigned a value but never used                                no-unused-vars
+  11683:13  warning  'dumpSegmentsToConsole' is assigned a value but never used                 no-unused-vars
+  11739:48  warning  'anchorPoint' is defined but never used                                    no-unused-vars
+  11739:61  warning  'orientation' is defined but never used                                    no-unused-vars
+  11739:74  warning  'endpointStyle' is defined but never used                                  no-unused-vars
+  11739:89  warning  'connectorPaintStyle' is defined but never used                            no-unused-vars
+  11772:13  warning  '_super' is assigned a value but never used                                no-unused-vars
+  11778:76  warning  'connectorPaintStyle' is defined but never used                            no-unused-vars
+  11799:13  warning  '_super' is assigned a value but never used                                no-unused-vars
+  11804:76  warning  'connectorPaintStyle' is defined but never used                            no-unused-vars
+  11815:40  warning  'params' is defined but never used                                         no-unused-vars
+  11893:48  warning  'orientation' is defined but never used                                    no-unused-vars
+  11893:61  warning  'endpointStyle' is defined but never used                                  no-unused-vars
+  11893:76  warning  'connectorPaintStyle' is defined but never used                            no-unused-vars
+  11919:40  warning  'd' is defined but never used                                              no-unused-vars
+  11919:43  warning  'style' is defined but never used                                          no-unused-vars
+  11919:50  warning  'anchor' is defined but never used                                         no-unused-vars
+  11962:13  warning  '_super' is assigned a value but never used                                no-unused-vars
+  11965:48  warning  'orientation' is defined but never used                                    no-unused-vars
+  11965:61  warning  'endpointStyle' is defined but never used                                  no-unused-vars
+  11965:76  warning  'connectorPaintStyle' is defined but never used                            no-unused-vars
+  11981:32  warning  'style' is defined but never used                                          no-unused-vars
+  11981:39  warning  'anchor' is defined but never used                                         no-unused-vars
+  12014:76  warning  'connectorPaintStyle' is defined but never used                            no-unused-vars
+  12043:27  warning  'instance' is defined but never used                                       no-unused-vars
+  12043:37  warning  'component' is defined but never used                                      no-unused-vars
+  12112:43  warning  'component' is defined but never used                                      no-unused-vars
+  12276:17  warning  'jsPlumb' is not defined                                                   no-undef
+  12383:37  warning  'component' is defined but never used                                      no-unused-vars
+  12393:29  warning  'containerExtents' is defined but never used                               no-unused-vars
+  12421:37  warning  'params' is defined but never used                                         no-unused-vars
+  12434:42  warning  'currentConnectionPaintStyle' is defined but never used                    no-unused-vars
+  12478:13  warning  'labelWidth' is assigned a value but never used                            no-unused-vars
+  12478:32  warning  'labelHeight' is assigned a value but never used                           no-unused-vars
+  12478:52  warning  'labelText' is assigned a value but never used                             no-unused-vars
+  12478:70  warning  'labelPadding' is assigned a value but never used                          no-unused-vars
+  12568:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  12623:32  warning  'g' is assigned a value but never used                                     no-unused-vars
+  12623:42  warning  'child' is assigned a value but never used                                 no-unused-vars
+  13026:35  warning  'conn' is defined but never used                                           no-unused-vars
+  13026:41  warning  'endpointIndex' is defined but never used                                  no-unused-vars
+  13030:37  warning  'conn' is defined but never used                                           no-unused-vars
+  13030:43  warning  'endpointIndex' is defined but never used                                  no-unused-vars
+  13043:56  warning  'jsPlumb' is not defined                                                   no-undef
+  13079:38  warning  '_el' is defined but never used                                            no-unused-vars
+  13079:43  warning  'targetGroup' is defined but never used                                    no-unused-vars
+  13132:29  warning  'jsPlumbUtil' is not defined                                               no-undef
+  13481:25  warning  'child' is assigned a value but never used                                 no-unused-vars
+  13505:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  13521:41  warning  'lastOrientation' is assigned a value but never used                       no-unused-vars
+  13525:13  warning  'loopbackRadius' is assigned a value but never used                        no-unused-vars
+  13526:13  warning  'isLoopbackCurrently' is assigned a value but never used                   no-unused-vars
+  13870:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  13879:13  warning  'curviness' is assigned a value but never used                             no-unused-vars
+  13881:13  warning  'proximityLimit' is assigned a value but never used                        no-unused-vars
+  13884:13  warning  'isLoopbackCurrently' is assigned a value but never used                   no-unused-vars
+  14023:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  14118:13  warning  'clockwise' is assigned a value but never used                             no-unused-vars
+  14218:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  14225:30  warning  'params' is defined but never used                                         no-unused-vars
+  14229:46  warning  '_' is defined but never used                                              no-unused-vars
+  14250:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  14655:35  warning  'style' is defined but never used                                          no-unused-vars
+  14678:35  warning  'style' is defined but never used                                          no-unused-vars
+  14714:13  warning  'self' is assigned a value but never used                                  no-unused-vars
+  14875:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  15070:39  warning  'jsPlumb' is not defined                                                   no-undef
+  15099:29  warning  'jsPlumb' is not defined                                                   no-undef
+  15106:38  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  15107:39  warning  'jsPlumb' is not defined                                                   no-undef
+  15174:40  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  15265:22  warning  'jsPlumb' is not defined                                                   no-undef
+  15270:24  warning  'jsPlumb' is not defined                                                   no-undef
+  15396:26  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  15409:13  warning  'jsPlumb' is not defined                                                   no-undef
+  15414:18  warning  'jsPlumb' is not defined                                                   no-undef
+  15423:13  warning  'jsPlumb' is not defined                                                   no-undef
+  15428:17  warning  'jsPlumb' is not defined                                                   no-undef
+  15429:17  warning  'jsPlumb' is not defined                                                   no-undef
+  15431:17  warning  'jsPlumb' is not defined                                                   no-undef
+  15435:13  warning  'jsPlumb' is not defined                                                   no-undef
+  15441:17  warning  'jsPlumb' is not defined                                                   no-undef
+  15479:18  warning  'jsPlumb' is not defined                                                   no-undef
+  15527:22  warning  'jsPlumb' is not defined                                                   no-undef
+  15632:20  warning  'jsPlumb' is not defined                                                   no-undef
+  15646:13  warning  'jsPlumb' is not defined                                                   no-undef
+  15658:18  warning  'jsPlumb' is not defined                                                   no-undef
+  15661:25  warning  'jsPlumb' is not defined                                                   no-undef
+  15663:35  warning  'jsPlumb' is not defined                                                   no-undef
+  15664:30  warning  'jsPlumb' is not defined                                                   no-undef
+  15665:45  warning  'jsPlumb' is not defined                                                   no-undef
+  15666:45  warning  'jsPlumb' is not defined                                                   no-undef
+  15667:46  warning  'jsPlumb' is not defined                                                   no-undef
+  15783:36  warning  'el' is defined but never used                                             no-unused-vars
+  15783:40  warning  'options' is defined but never used                                        no-unused-vars
+  15786:36  warning  'el' is defined but never used                                             no-unused-vars
+  15786:40  warning  'options' is defined but never used                                        no-unused-vars
+  15802:45  warning  'zoom' is defined but never used                                           no-unused-vars
+  15842:33  warning  'spec' is defined but never used                                           no-unused-vars
+  15851:31  warning  'spec' is defined but never used                                           no-unused-vars
+  15860:38  warning  'posseId' is defined but never used                                        no-unused-vars
+  15919:23  warning  'el' is defined but never used                                             no-unused-vars
+  15919:27  warning  'event' is defined but never used                                          no-unused-vars
+  15919:34  warning  'callback' is defined but never used                                       no-unused-vars
+  15928:24  warning  'el' is defined but never used                                             no-unused-vars
+  15928:28  warning  'event' is defined but never used                                          no-unused-vars
+  15928:35  warning  'callback' is defined but never used                                       no-unused-vars
+
+✖ 264 problems (0 errors, 264 warnings)
+  0 errors and 19 warnings potentially fixable with the `--fix` option.
+
